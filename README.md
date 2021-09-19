@@ -25,3 +25,7 @@ Configuration with default values:
 - `PASSWORD=password1,password2,password3` Your login passwords/posting keys. Use password if you login via email, **use the posting key if you login via username**
 
 - `USE_API=true` Enable/Disable the team selection API. If disabled the bot will play the most played cards from local newHistory.json file. **Experimental - set to false if you 
+- PROXY_ACCOUNT= 134.122.127.36:8080,default (example)
+- MAXIMUM_DEC= 10 (example) : Limit DEC to get 
+- DEC_PLAYER=reachinto (example): Player received DEC
+- WRITE_FILE=false (example): Write Info Player File
