@@ -1,0 +1,132 @@
+DEATH QUEST,,11,,,,,,
+DEATH QUEST,Zintar Mortalis,12,Cursed Slimeball,Haunted Spirit,Skeleton Assassin,0,0,0
+DEATH QUEST,Zintar Mortalis,13,Haunted Spirit,Undead Badger,Skeleton Assassin,0,0,0
+DEATH QUEST,Zintar Mortalis,14,Haunted Spirit,Undead Priest,Twisted Jester,0,0,0
+DEATH QUEST,Zintar Mortalis,15,Haunted Spirit,Twisted Jester,Undead Badger,Cursed Slimeball,0,0
+DEATH QUEST,Zintar Mortalis,16,Haunted Spirit,Undead Priest,Undead Badger,Twisted Jester,0,0
+DEATH QUEST,Zintar Mortalis,17,Haunted Spirit,Twisted Jester,Undead Badger,Undead Priest,Cursed Slimeball,0
+DEATH QUEST,Zintar Mortalis,18,Haunted Spirit,Undead Priest,Skeleton Assassin,Twisted Jester,Cursed Slimeball,0
+DEATH QUEST,Zintar Mortalis,19,Haunted Spirit,Skeleton Assassin,Undead Badger,Twisted Jester,Undead Priest,0
+DEATH QUEST,Zintar Mortalis,20,Haunted Spirit,Undead Priest,Skeleton Assassin,Death Elemental,Twisted Jester,0
+DEATH QUEST,Zintar Mortalis,21,Cocatrice,Haunted Spirit,Twisted Jester,Undead Priest,Undead Badger,Skeleton Assassin
+DEATH QUEST,Contessa L'ament,22,Haunted Spirit,Skeleton Assassin,Death Elemental,Undead Priest,Twisted Jester,Undead Badger
+DEATH QUEST,Zintar Mortalis,23,Bone Golem,Haunted Spirit,Maggots,Undead Badger,Death Elemental,0
+DEATH QUEST,Zintar Mortalis,24,Haunted Spirit,Spineback Wolf,Skeleton Assassin,Undead Badger,Twisted Jester,Undead Priest
+DEATH QUEST,Zintar Mortalis,25,Haunted Spirit,Undead Priest,Skeleton Assassin,Undead Badger,Twisted Jester,Mantoid
+DEATH QUEST,Zintar Mortalis,26,Haunted Spirit,Twisted Jester,Undead Priest,Dark Astronomer,Skeleton Assassin,Spineback Wolf
+DEATH QUEST,Zintar Mortalis,27,Bone Golem,Haunted Spirit,Death Elemental,Skeleton Assassin,Twisted Jester,Undead Badger
+DEATH QUEST,Zintar Mortalis,28,Haunted Spirit,Skeleton Assassin,Undead Priest,Death Elemental,Twisted Jester,Mantoid
+DEATH QUEST,Zintar Mortalis,29,Bone Golem,Haunted Spirit,Skeleton Assassin,Mantoid,Undead Badger,Undead Priest
+DEATH QUEST,Zintar Mortalis,30,Haunted Spirit,Bone Golem,Undead Priest,Death Elemental,Twisted Jester,Mantoid
+DEATH QUEST,Zintar Mortalis,31,Haunted Spirit,Bone Golem,Undead Priest,Death Elemental,Twisted Jester,Mantoid
+DEATH QUEST,Zintar Mortalis,32,Haunted Spirit,Bone Golem,Undead Priest,Death Elemental,Twisted Jester,Mantoid
+EARTH QUEST,,11,,,,,,
+EARTH QUEST,Lyanna Natura,12,Stonesplitter Orc,Child of the Forest,,,,
+EARTH QUEST,Lyanna Natura,13,Stonesplitter Orc,Child of the Forest,,,,
+EARTH QUEST,Wizard of Eastwood,14,Unicorn Mustang,Earth Elemental,,,,
+EARTH QUEST,Lyanna Natura,15,Flesh Golem,Goblin Sorcerer,Elven Cutthroat,,,
+EARTH QUEST,Wizard of Eastwood,16,Rexxie,Tower Griffin,Failed Summoner,,,
+EARTH QUEST,Lyanna Natura,17,Rexxie,Goblin Thief,Earth Elemental,0,0,0
+EARTH QUEST,Lyanna Natura,18,Rexxie,Goblin Thief,Earth Elemental,,,
+EARTH QUEST,Lyanna Natura,19,Stone Golem,Goblin Thief,Goblin Sorcerer,Centaur,,
+EARTH QUEST,Lyanna Natura,20,Failed Summoner,Stone Golem,Goblin Thief,Child of the Forest,Goblin Sorcerer,0
+EARTH QUEST,Lyanna Natura,21,Unicorn Mustang,Goblin Thief,Goblin Sorcerer,Earth Elemental,,
+EARTH QUEST,Lyanna Natura,22,Unicorn Mustang,Minotaur Warrior,Goblin Thief,Goblin Sorcerer,0,0
+EARTH QUEST,Lyanna Natura,23,Unicorn Mustang,Goblin Sorcerer,Goblin Thief,Khmer Princess,Earth Elemental,0
+EARTH QUEST,Lyanna Natura,24,Unicorn Mustang,Stonesplitter Orc,Child of the Forest,Khmer Princess,Failed Summoner,0
+EARTH QUEST,Lyanna Natura,25,Elven Defender,Failed Summoner,Child of the Forest,Goblin Thief,Khmer Princess,Earth Elemental
+EARTH QUEST,Lyanna Natura,26,Unicorn Mustang,Failed Summoner,Khmer Princess,Goblin Thief,Child of the Forest,Earth Elemental
+EARTH QUEST,Lyanna Natura,27,Unicorn Mustang,Earth Elemental,Goblin Thief,Goblin Sorcerer,Child of the Forest,Elven Cutthroat
+EARTH QUEST,Lyanna Natura,28,Unicorn Mustang,Earth Elemental,Goblin Thief,Goblin Sorcerer,Child of the Forest,Elven Cutthroat
+EARTH QUEST,Lyanna Natura,29,Unicorn Mustang,Goblin Thief,Goblin Sorcerer,Elven Cutthroat,Khmer Princess,Mantoid
+EARTH QUEST,Lyanna Natura,30,Unicorn Mustang,Goblin Thief,Goblin Sorcerer,Elven Cutthroat,Khmer Princess,Mantoid
+EARTH QUEST,Lyanna Natura,31,Unicorn Mustang,Goblin Thief,Goblin Sorcerer,Elven Cutthroat,Khmer Princess,Mantoid
+EARTH QUEST,Lyanna Natura,32,Unicorn Mustang,Goblin Thief,Goblin Sorcerer,Elven Cutthroat,Khmer Princess,Mantoid
+FIRE QUEST,,11,,,,,,
+FIRE QUEST,Malric Inferno,12,Cerberus,Serpentine Spy,Kobold Miner,0,0,0
+FIRE QUEST,Malric Inferno,13,Cerberus,Fire Elemental,0,0,0,0
+FIRE QUEST,Malric Inferno,14,Cerberus,Goblin Chariot,Cocatrice,0,0,0
+FIRE QUEST,Malric Inferno,15,Cerberus,Serpentine Spy,Kobold Miner,Fire Beetle,0,0
+FIRE QUEST,Pyre,16,Cerberus,Kobold Bruiser,Serpentine Spy,Fire Beetle,0,0
+FIRE QUEST,Pyre,17,Cocatrice,Cerberus,Fire Beetle,Serpentine Spy,Kobold Miner,0
+FIRE QUEST,Malric Inferno,18,Living Lava,Magma Troll,Cerberus,,,
+FIRE QUEST,Malric Inferno,19,Cerberus,Kobold Bruiser,Serpentine Spy,Kobold Miner,Spark Pixies,0
+FIRE QUEST,Malric Inferno,20,Cerberus,Fire Beetle,Goblin Shaman,Serpentine Spy,Spark Pixies,0
+FIRE QUEST,Malric Inferno,21,Living Lava,Goblin Shaman,Elven Cutthroat,Serpentine Spy,Kobold Miner,0
+FIRE QUEST,Malric Inferno,22,Serpentine Soldier,Serpentine Spy,Fire Beetle,Kobold Miner,Elven Cutthroat,Goblin Shaman
+FIRE QUEST,Malric Inferno,23,Living Lava,Cerberus,Fire Elemental,Serpentine Spy,0,0
+FIRE QUEST,Malric Inferno,24,Cerberus,Serpentine Spy,Kobold Miner,Fire Elemental,Goblin Shaman,Tower Griffin
+FIRE QUEST,Malric Inferno,25,Living Lava,Fire Elemental,Serpentine Spy,Spark Pixies,Fire Beetle,0
+FIRE QUEST,Pyre,26,Cerberus,Magma Troll,Serpentine Spy,Fire Elemental,Fire Beetle,Centaur
+FIRE QUEST,Malric Inferno,27,Living Lava,Fire Elemental,Serpentine Spy,Spark Pixies,Kobold Bruiser,Goblin Fireballer
+FIRE QUEST,Pyre,28,Living Lava,Cerberus,Fire Beetle,Serpentine Spy,Spark Pixies,Elven Mystic
+FIRE QUEST,Pyre,29,Elven Defender,Cerberus,Serpentine Spy,Fire Elemental,Spark Pixies,Kobold Miner
+FIRE QUEST,Pyre,30,Elven Defender,Cerberus,Serpentine Spy,Fire Elemental,Spark Pixies,Fire Beetle
+FIRE QUEST,Pyre,31,Elven Defender,Cerberus,Serpentine Spy,Fire Elemental,Spark Pixies,Fire Beetle
+FIRE QUEST,Malric Inferno,32,Living Lava,Cerberus,Serpentine Spy,Fire Elemental,Spark Pixies,Elven Mystic
+LIFE QUEST,,11,,,,,,
+LIFE QUEST,Tyrus Paladium,12,Silvershield Paladin,Divine Healer,0,0,0,0
+LIFE QUEST,Tyrus Paladium,13,Silvershield Paladin,Divine Healer,,,,
+LIFE QUEST,Mother Khala,14,Crystal Jaguar,Herbalist,Lone Boatman,,,
+LIFE QUEST,Tyrus Paladium,15,Silvershield Paladin,Divine Healer,Peacebringer,0,0,0
+LIFE QUEST,Tyrus Paladium,16,Clay Golem,Divine Healer,Peacebringer,,,
+LIFE QUEST,Mother Khala,17,Crystal Jaguar,Feral Spirit,Divine Healer,Peacebringer,,
+LIFE QUEST,Tyrus Paladium,18,Silvershield Paladin,Divine Healer,Feral Spirit,Peacebringer,,
+LIFE QUEST,Tyrus Paladium,19,Silvershield Paladin,Divine Healer,Feral Spirit,Peacebringer,,
+LIFE QUEST,Tyrus Paladium,20,Silvershield Paladin,Divine Healer,Feral Spirit,Peacebringer,,
+LIFE QUEST,Mother Khala,21,Shieldbearer,Divine Healer,Peacebringer,Enchanted Pixie,,
+LIFE QUEST,Tyrus Paladium,22,Clay Golem,Peacebringer,Divine Healer,Enchanted Pixie,Feral Spirit,
+LIFE QUEST,Mother Khala,23,Shieldbearer,Peacebringer,Divine Healer,Feral Spirit,Herbalist,0
+LIFE QUEST,Mother Khala,24,Shieldbearer,Peacebringer,Divine Healer,Feral Spirit,Herbalist,
+LIFE QUEST,Mother Khala,25,Shieldbearer,Luminous Eagle,Divine Healer,Peacebringer,0,0
+LIFE QUEST,Tyrus Paladium,26,Silvershield Paladin,Silvershield Knight,Feral Spirit,Elven Cutthroat,Divine Healer,Cocatrice
+LIFE QUEST,Tyrus Paladium,27,Silvershield Paladin,Cave Slug,Lone Boatman,Divine Healer,Enchanted Pixie,Truthspeaker
+LIFE QUEST,Mother Khala,28,Shieldbearer,Divine Healer,Feral Spirit,Lone Boatman,Peacebringer,Herbalist
+LIFE QUEST,Tyrus Paladium,29,Silvershield Paladin,Divine Healer,Silvershield Knight,Peacebringer,Feral Spirit,Elven Cutthroat
+LIFE QUEST,Tyrus Paladium,30,Shieldbearer,Luminous Eagle,Cave Slug,Feral Spirit,Divine Healer,Herbalist
+LIFE QUEST,Tyrus Paladium,31,Shieldbearer,Luminous Eagle,Cave Slug,Feral Spirit,Divine Healer,Herbalist
+LIFE QUEST,Tyrus Paladium,32,Shieldbearer,Luminous Eagle,Silvershield Knight,Cave Slug,Mantoid,Lone Boatman
+RANK,Zintar Mortalis,11,Haunted Spirit,Undead Badger,Cursed Slimeball,,,
+RANK,Malric Inferno,12,Cerberus,Serpentine Spy,Kobold Miner,0,0,0
+RANK,Zintar Mortalis,13,Haunted Spirit,Undead Badger,Skeleton Assassin,0,0,0
+RANK,Malric Inferno,14,Cerberus,Goblin Chariot,Cocatrice,0,0,0
+RANK,Zintar Mortalis,15,Haunted Spirit,Twisted Jester,Undead Badger,Cursed Slimeball,0,0
+RANK,Zintar Mortalis,16,Haunted Spirit,Undead Priest,Undead Badger,Twisted Jester,0,0
+RANK,Zintar Mortalis,17,Haunted Spirit,Twisted Jester,Undead Badger,Undead Priest,Cursed Slimeball,0
+RANK,Zintar Mortalis,18,Haunted Spirit,Undead Priest,Skeleton Assassin,Twisted Jester,Cursed Slimeball,0
+RANK,Zintar Mortalis,19,Haunted Spirit,Skeleton Assassin,Undead Badger,Twisted Jester,Undead Priest,0
+RANK,Zintar Mortalis,20,Haunted Spirit,Undead Priest,Skeleton Assassin,Death Elemental,Twisted Jester,0
+RANK,Alric Stormbringer,21,Serpent of Eld,Medusa,Ice Pixie,Water Elemental,0,0
+RANK,Malric Inferno,22,Serpentine Soldier,Serpentine Spy,Fire Beetle,Kobold Miner,Elven Cutthroat,Goblin Shaman
+RANK,Zintar Mortalis,23,Bone Golem,Haunted Spirit,Maggots,Undead Badger,Death Elemental,0
+RANK,Alric Stormbringer,24,Frozen Soldier,Water Elemental,Medusa,Ice Pixie,Elven Mystic,0
+RANK,Mother Khala,25,Shieldbearer,Luminous Eagle,Divine Healer,Peacebringer,0,0
+RANK,Alric Stormbringer,26,Serpent of Eld,Water Elemental,Medusa,Ice Pixie,Elven Mystic,Albatross
+RANK,Alric Stormbringer,27,Frozen Soldier,Medusa,Elven Mystic,Enchanted Pixie,Ice Pixie,Water Elemental
+RANK,Alric Stormbringer,28,Serpent of Eld,Medusa,Elven Mystic,Ice Pixie,Enchanted Pixie,Water Elemental
+RANK,Pyre,29,Elven Defender,Cerberus,Serpentine Spy,Fire Elemental,Spark Pixies,Kobold Miner
+RANK,Alric Stormbringer,30,Serpent of Eld,Elven Mystic,Medusa,Ice Pixie,Water Elemental,Goblin Chariot
+RANK,Mother Khala,31,Shieldbearer,Divine Healer,Peacebringer,Centaur,Mantoid,Truthspeaker
+RANK,Tyrus Paladium,32,Shieldbearer,Luminous Eagle,Silvershield Knight,Cave Slug,Mantoid,Lone Boatman
+WATER QUEST,,11,,,,,,
+WATER QUEST,Alric Stormbringer,12,Medusa,Ice Pixie,Enchanted Pixie,0,0,0
+WATER QUEST,Alric Stormbringer,13,Spineback Turtle,Ice Pixie,Medusa,,,
+WATER QUEST,Alric Stormbringer,14,Frozen Soldier,Water Elemental,0,0,0,0
+WATER QUEST,Alric Stormbringer,15,Spineback Turtle,Cocatrice,Ice Pixie,Medusa,0,0
+WATER QUEST,Alric Stormbringer,16,Serpent of Eld,Ice Pixie,Medusa,0,0,0
+WATER QUEST,Alric Stormbringer,17,Frozen Soldier,Medusa,Elven Mystic,0,0,0
+WATER QUEST,Alric Stormbringer,18,Serpent of Eld,Water Elemental,Water Elemental,Albatross,,
+WATER QUEST,Alric Stormbringer,19,Frozen Soldier,Medusa,Ice Pixie,Elven Mystic,0,0
+WATER QUEST,Alric Stormbringer,20,Water Elemental,Medusa,Ice Pixie,Enchanted Pixie,Cocatrice,Albatross
+WATER QUEST,Alric Stormbringer,21,Serpent of Eld,Medusa,Ice Pixie,Water Elemental,0,0
+WATER QUEST,Alric Stormbringer,22,Frozen Soldier,Elven Mystic,Enchanted Pixie,Ice Pixie,Medusa,0
+WATER QUEST,Alric Stormbringer,23,Serpent of Eld,Medusa,Ice Pixie,Enchanted Pixie,Elven Mystic,0
+WATER QUEST,Alric Stormbringer,24,Frozen Soldier,Water Elemental,Medusa,Ice Pixie,Elven Mystic,0
+WATER QUEST,Alric Stormbringer,25,Serpent of Eld,Water Elemental,Medusa,Ice Pixie,Elven Mystic,0
+WATER QUEST,Alric Stormbringer,26,Serpent of Eld,Water Elemental,Medusa,Ice Pixie,Elven Mystic,Albatross
+WATER QUEST,Alric Stormbringer,27,Frozen Soldier,Medusa,Elven Mystic,Enchanted Pixie,Ice Pixie,Water Elemental
+WATER QUEST,Alric Stormbringer,28,Serpent of Eld,Medusa,Elven Mystic,Ice Pixie,Enchanted Pixie,Water Elemental
+WATER QUEST,Alric Stormbringer,29,Serpent of Eld,Water Elemental,Medusa,Ice Pixie,Enchanted Pixie,Elven Mystic
+WATER QUEST,Alric Stormbringer,30,Serpent of Eld,Elven Mystic,Medusa,Ice Pixie,Water Elemental,Goblin Chariot
+WATER QUEST,Alric Stormbringer,31,Serpent of Eld,Elven Mystic,Medusa,Ice Pixie,Water Elemental,Goblin Chariot
+WATER QUEST,Alric Stormbringer,32,Serpent of Eld,Water Elemental,Medusa,Ice Pixie,Enchanted Pixie,Elven Mystic
